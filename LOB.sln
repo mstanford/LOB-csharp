@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOB", "LOB\LOB.csproj", "{BB374D17-3D6D-4BC4-B6E0-31725EEB9272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOB.Tests", "LOB.Tests\LOB.Tests.csproj", "{F7573AA5-DBB5-48F9-A4FD-4F1E37A70F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB374D17-3D6D-4BC4-B6E0-31725EEB9272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB374D17-3D6D-4BC4-B6E0-31725EEB9272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB374D17-3D6D-4BC4-B6E0-31725EEB9272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB374D17-3D6D-4BC4-B6E0-31725EEB9272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7573AA5-DBB5-48F9-A4FD-4F1E37A70F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7573AA5-DBB5-48F9-A4FD-4F1E37A70F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7573AA5-DBB5-48F9-A4FD-4F1E37A70F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7573AA5-DBB5-48F9-A4FD-4F1E37A70F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
